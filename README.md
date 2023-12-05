@@ -12,7 +12,7 @@ This project focuses on scraping, cleaning, and visualizing laptop data from Bes
 ## Web Scraping Process 
 The data was sourced from Best Buy, chosen for its comprehensive and up-to-date laptop listings. Python scripts utilizing libraries such as Beautiful Soup and Selenium were employed for scraping, ensuring efficient and accurate data extraction.
 
-To view the web scraper, you can find it in the [web scraping notebook](notebooks/Best%20Buy%20Web%20Scraper.ipynb).
+To view the web scraper, you can find it in the [web scraping notebook](NoteBooks/Web_Scraper.ipynb).
 
 ## Data Cleaning Methodology
 The cleaning process involved removing irrelevant columns, handling missing values, and standardizing data formats. Special attention was given to transforming categorical variables and normalizing numerical data for meaningful analysis.
