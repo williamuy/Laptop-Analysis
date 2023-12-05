@@ -23,7 +23,7 @@ To view the data preprocessing, you can find it in the [data cleaning notebook](
 A variety of visualizations were created, including histograms, scatter plots, and heatmaps, to explore different aspects of the data. These visualizations focus on price distribution, brand and operating system analysis, and uncovering potential correlations.
 
 To view the full data visualization, you can find it in the [data viz notebook](NoteBooks/Data_Viz.ipynb).
-https://github.com/williamuy/Laptop-Price-Analysis-Web-Scrap/blob/main/NoteBooks/Data_Viz.ipynb
+
 ## Code Organization
 The repository is simply structured with the datasets in one folder, and the notebooks in another folder
 
