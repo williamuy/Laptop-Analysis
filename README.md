@@ -25,7 +25,7 @@ The cleaned dataset consists of 756 laptops from year 2018 to 2023, containing 1
 
 To view the data preprocessing, you can find it in the [data cleaning notebook](NoteBooks/Data_Cleaning.ipynb).
 
-To view the cleaned dataset, you can find it in the [data cleaning notebook](Data/CleanedLaptops.csv).
+To view the cleaned dataset, you can find it in the [data notebook](Data/CleanedLaptops.csv).
 
 ## Data Visualization Overview
 A variety of visualizations were created, including histograms, scatter plots, and heatmaps, to explore different aspects of the data. These visualizations focus on price distribution, brand and operating system analysis, and uncovering potential correlations.
