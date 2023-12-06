@@ -15,7 +15,7 @@ The data was scraped off Best Buy's laptop selection, as they provide comprehens
 
 To view the web scraper, you can find it in the [web scraping notebook](NoteBooks/Web_Scraper.ipynb).
 
-To view the data, you can find it in the [data notebook](Data/laptops_(2).csv).
+To view the data, you can find it in the [data notebook](Data/laptops%20(2).csv).
 
 
 ## Data Cleaning Methodology
