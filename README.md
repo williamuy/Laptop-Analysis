@@ -41,7 +41,7 @@ This analysis of laptop data from Best Buy has revealed some important insights 
 
 
 1. **Correlation Among Features**:
-   - The correlation heatmap indicated weak relationships among the laptop features, suggesting that no single feature dominates the pricing or customer satisfaction. This may be due to the lack of quality data from best buy. This insight guided the project's direction towards data visualization to narrate the story behind the numbers, rather than predictive modeling.
+   - The correlation heatmap indicated weak relationships among the laptop features, suggesting that no single feature dominates the pricing or customer satisfaction. This may be due to the lack of data from best buy from only scrapping off best buy. This insight guided the project's direction towards data visualization to narrate the story behind the numbers, rather than predictive modeling.
 
 <div align="center">
   <img src="https://github.com/williamuy/Laptop-Analysis/assets/131928949/8edf513b-85e8-4e12-811b-a35b616ff98c)" alt="Correlation Heatmap" width="600"/>
